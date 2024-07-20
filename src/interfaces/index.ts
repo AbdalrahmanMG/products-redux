@@ -3,4 +3,5 @@ export interface ICart {
     img: string,
     name: string,
     price: string,
+    qty: number
 }
