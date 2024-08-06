@@ -1,5 +1,5 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
-import { ICart } from "./../../../interfaces/index";
+import { ICart } from "../../../interfaces/index";
 import axionsInstance from "../../../config/axios.config";
 import { RootState } from "../../store";
 
