@@ -2,12 +2,14 @@ import { configureStore } from '@reduxjs/toolkit'
 import { useDispatch } from 'react-redux'
 import counterSlice from './features/counter/counterSlice'
 import cartSlice from './features/cart/cartSlice'
+import  productsSlice  from './features/products/productsSlice'
 
 
 const store = configureStore({
   reducer: {
     counter: counterSlice,
-    cart: cartSlice
+    cart: cartSlice,
+    products: productsSlice
   },
 })
 export type RootState = ReturnType<typeof store.getState>

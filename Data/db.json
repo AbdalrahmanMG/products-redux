@@ -1,0 +1,145 @@
+{
+   "products": [
+        {
+          "id": 1,
+          "img": "https://images.unsplash.com/photo-1636032204197-ec38e279afb6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "iPhone 13",
+          "price": "$999.99",
+          "qty": 0
+        },
+        {
+          "id": 2,
+          "img": "https://plus.unsplash.com/premium_photo-1680615470522-44933de7bf03?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "Samsung Galaxy S21",
+          "price": "$799.99",
+          "qty": 0
+        },
+        {
+          "id": 3,
+          "img": "https://images.unsplash.com/photo-1601972599720-36938d4ecd31?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "Google Pixel 6",
+          "price": "$599.99",
+          "qty": 0
+        },
+        {
+          "id": 4,
+          "img": "https://images.unsplash.com/photo-1636032204197-ec38e279afb6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "Huawei P50",
+          "price": "$699.99",
+          "qty": 0
+        },
+        {
+          "id": 5,
+          "img": "https://plus.unsplash.com/premium_photo-1680615470522-44933de7bf03?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "OnePlus 9",
+          "price": "$729.99",
+          "qty": 0
+        },
+        {
+          "id": 6,
+          "img": "https://images.unsplash.com/photo-1601972599720-36938d4ecd31?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "Xiaomi Mi 11",
+          "price": "$749.99",
+          "qty": 0
+        },
+        {
+          "id": 7,
+          "img": "https://images.unsplash.com/photo-1636032204197-ec38e279afb6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "Oppo Find X3",
+          "price": "$699.99",
+          "qty": 0
+        },
+        {
+          "id": 8,
+          "img": "https://plus.unsplash.com/premium_photo-1680615470522-44933de7bf03?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "Sony Xperia 1 III",
+          "price": "$1199.99",
+          "qty": 0
+        },
+        {
+          "id": 9,
+          "img": "https://images.unsplash.com/photo-1601972599720-36938d4ecd31?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "Motorola Edge 20",
+          "price": "$699.99",
+          "qty": 0
+        },
+        {
+          "id": 10,
+          "img": "https://images.unsplash.com/photo-1636032204197-ec38e279afb6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "Nokia G50",
+          "price": "$299.99",
+          "qty": 0
+        },
+        {
+          "id": 11,
+          "img": "https://plus.unsplash.com/premium_photo-1680615470522-44933de7bf03?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "LG Wing",
+          "price": "$999.99",
+          "qty": 0
+        },
+        {
+          "id": 12,
+          "img": "https://images.unsplash.com/photo-1601972599720-36938d4ecd31?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "Asus ROG Phone 5",
+          "price": "$999.99",
+          "qty": 0
+        },
+        {
+          "id": 13,
+          "img": "https://images.unsplash.com/photo-1636032204197-ec38e279afb6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "Realme GT",
+          "price": "$449.99",
+          "qty": 0
+        },
+        {
+          "id": 14,
+          "img": "https://plus.unsplash.com/premium_photo-1680615470522-44933de7bf03?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "Vivo X60 Pro",
+          "price": "$799.99",
+          "qty": 0
+        },
+        {
+          "id": 15,
+          "img": "https://images.unsplash.com/photo-1601972599720-36938d4ecd31?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "ZTE Axon 30",
+          "price": "$499.99",
+          "qty": 0
+        },
+        {
+          "id": 16,
+          "img": "https://images.unsplash.com/photo-1636032204197-ec38e279afb6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "Meizu 18",
+          "price": "$699.99",
+          "qty": 0
+        },
+        {
+          "id": 17,
+          "img": "https://plus.unsplash.com/premium_photo-1680615470522-44933de7bf03?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "Lenovo Legion Duel",
+          "price": "$999.99",
+          "qty": 0
+        },
+        {
+          "id": 18,
+          "img": "https://source.unsplash.com/800x600/?phone,alcatel",
+          "name": "Alcatel 3X",
+          "price": "$149.99",
+          "qty": 0
+        },
+        {
+          "id": 19,
+          "img": "https://images.unsplash.com/photo-1636032204197-ec38e279afb6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "Tecno Camon 17",
+          "price": "$199.99",
+          "qty": 0
+        },
+        {
+          "id": 20,
+          "img": "https://plus.unsplash.com/premium_photo-1680615470522-44933de7bf03?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "Infinix Note 10 Pro",
+          "price": "$259.99",
+          "qty": 0
+        }
+      ]
+}
+  
